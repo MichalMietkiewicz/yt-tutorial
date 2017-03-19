@@ -42,6 +42,7 @@ body {
 	background-color: #3095d3;
 	float: left;
 	text-align: center;
+	color: #ffffff !important;
 
 }
 .tile1:hover{
@@ -54,6 +55,8 @@ body {
 	background-color: #666666;
 	float: left;
 	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
 
 
 }
@@ -67,6 +70,7 @@ body {
 	background-color: #93c748;
 	float: left;
 	text-align: center;
+	color: #ffffff;
 	
 
 
@@ -83,6 +87,7 @@ body {
 	font-size: 26px;
 	padding: 30px;
 	line-height: 150%;
+
 }
 
 
@@ -102,7 +107,7 @@ body {
 	height: 142px;
 	background-color: #d94348;
 	float: left;
-
+	color: #ffffff;
 }
 .yt:hover{
 	background-color: #c83237;
@@ -113,7 +118,7 @@ body {
 	height: 142px;
 	background-color: #d95333;
 	float: left;
-
+	color: #ffffff;
 }
 .gplus:hover{
 	background-color: #c84222;
@@ -124,7 +129,7 @@ body {
 	height: 142px;
 	background-color: #3095d3;
 	float: left;
-
+	color: #ffffff;
 }
 .tw:hover{
 	background-color: #2084c2;
@@ -135,7 +140,7 @@ body {
 	height: 142px;
 	background-color: #4668b3;
 	float: left;
-
+	color: #ffffff;
 }
 .fb:hover{
 	background-color: #3557a2;
@@ -146,12 +151,24 @@ body {
 }
 a.tilelink
 {
-	color: #ffffff !important;
+	color: #ffffff ;
 	text-decoration: none;
 	display: block;
 	width: 230px;
 	height: 142px;
-	
-
 }
-
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+a.sociallink
+{
+	color: #ffffff ;
+	text-decoration: none;
+	display: block;
+	width: 105px;
+	height: 142px;
+}
+.tilelinkhtml5 {
+	
+}
