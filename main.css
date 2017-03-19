@@ -144,10 +144,14 @@ body {
 	font-size: 76px;
 	display: block !important;
 }
-a.tilelink{
-	color: #fff;
+a.tilelink
+{
+	color: #ffffff !important;
 	text-decoration: none;
 	display: block;
 	width: 230px;
 	height: 142px;
+	
+
 }
+
